@@ -8,10 +8,16 @@
   },
   "keywords": [],
   "author": "",
+  "type": "module",
   "license": "ISC",
   "dependencies": {
+    "@metaplex-foundation/mpl-token-metadata": "^2.13.0",
     "@solana-developers/helpers": "^2.3.0",
+    "@solana/spl-token": "^0.4.6",
     "@solana/web3.js": "^1.91.8",
+    "base-58": "^0.0.1",
+    "bs58": "^5.0.0",
+    "dotenv": "^16.4.5",
     "esrun": "^3.2.26",
     "typescript": "^5.4.5"
   }
